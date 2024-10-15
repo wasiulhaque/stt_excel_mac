@@ -4,7 +4,7 @@
   <Version>1.0.0.0</Version>
   <ProviderName>Wasiul Haque</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="কথা MacOS"/>
+  <DisplayName DefaultValue="কথা"/>
   <Description DefaultValue="Speech to Text MS Word Addin"/>
   <IconUrl DefaultValue="https://localhost:3000/assets/icon-32.png"/>
   <HighResolutionIconUrl DefaultValue="https://localhost:3000/assets/icon-64.png"/>
@@ -77,7 +77,7 @@
         <bt:String id="GetStarted.Title" DefaultValue="Get started with your sample add-in!"/>
         <bt:String id="CommandsGroup.Label" DefaultValue="কথা"/>
         <bt:String id="TaskpaneButton.Label" DefaultValue="কথা"/>
-        <bt:String id="Menu.Label" DefaultValue="কথা MacOS"/>
+        <bt:String id="Menu.Label" DefaultValue="কথা"/>
       </bt:ShortStrings>
       <bt:LongStrings>
         <bt:String id="GetStarted.Description" DefaultValue="Your sample add-in loaded succesfully. Go to the HOME tab and click the 'Show Taskpane' button to get started."/>
